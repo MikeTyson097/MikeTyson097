@@ -1,7 +1,3 @@
-<h1 align="center"> 
-  <img src="https://cdn3d.iconscout.com/3d/premium/thumb/hacker-3d-icon-png-download-4668704.png" width="120"/>
-</h1>
-
 <h1 align="center">Zafar Baxramov</h1>
 <p align="center"><b>🔐 Penetration Tester | Offensive Security</b></p>
 
